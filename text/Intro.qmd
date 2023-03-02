@@ -1,5 +1,6 @@
 ---
 title: Intro
+bibliography: references.bib
 ---
 
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
@@ -13,11 +14,21 @@ data_title <- "Columbia River Chum"
 data_id <- "CRchum"
 ```
 
-# Columbia River Chum
+# Background
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. @clark1993 vitae ante quis dui egestas fringilla ac vitae justo [@ansley1981; @collins1996; @deuel1968] . Pellentesque quis magna vel odio malesuada rutrum a volutpat nisl. Aliquam fermentum, urna eget tristique mattis, augue augue tristique ipsum, eget finibus nunc eros non nisi. Phasellus mattis hendrerit sapien, quis accumsan dui pretium eget. Nunc eleifend laoreet urna a luctus. Nulla vel sapien in nulla gravida tempus sit amet a metus. Vivamus porta condimentum tempus. Maecenas rhoncus elit id ultricies scelerisque. In gravida urna in ligula fringilla euismod. Curabitur efficitur porta libero ac fermentum. Cras fringilla et libero at posuere. Curabitur sodales dapibus elit a convallis.
+The management and conservation of marine mammals relies on a working knowledge of their population, stock structure, and year-round distribution patterns \[[@delarue2009; @risch2019]. Due to their large size and wide ranging pelagic movements, it is often difficult and expensive to collect data for stock assessments of baleen whale species. Historically stock identification for cetaceans has been based on genetics, morphology (much of which was obtained during commercial whaling) and geographic distribution [@mizroch2009]. More recently, new lines of evidence regarding a species' life history and ecology have been considered when defining stocks [@martien2015, @rankin2018]. One such line of evidence recommended to improve population stock structure assessments is the use of passive acoustic methods [@mellinger2003, @mcdonald2006].
 
-Morbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis.
+A growing body of information supports the idea that using acoustics to characterize differences in call types within a species may indicate stock or subspecies structure[@mcdonald2006a, @rankin2018]. Broad-scale acoustic population assessments have already been conducted within several species of baleen whale. Minke and Bryde\'s whale call types vary across ocean basins and, at a finer scale, can reflect breaks in distribution [@gedamke2001, @rankin2005, @oleson2003, @winn1976]. Acoustic studies of
+humpback whales have shown differences in song among different populations. Although,
+sharing of song components between neighboring populations may complicate
+identifying populations on the basis of song alone (Helweg et al 1998, Cerchio
+et a; 2001). Song variability within blue whales (B. musculus), has been
+proposed as a bases to delineate blue whale populations worldwide. This is due
+to geographically stable differences in characteristics of song phrases (McDonald, Mark a.; Mesnick, Sarah L.; Hildebrand, 2006).
+
+------------------------------------------------------------------------
+
+ [\[CH1\]](#_msoanchor_1)May need more sources
 
 ## General location
 
