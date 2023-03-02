@@ -18,13 +18,7 @@ data_id <- "CRchum"
 
 The management and conservation of marine mammals relies on a working knowledge of their population, stock structure, and year-round distribution patterns \[[@delarue2009; @risch2019]. Due to their large size and wide ranging pelagic movements, it is often difficult and expensive to collect data for stock assessments of baleen whale species. Historically stock identification for cetaceans has been based on genetics, morphology (much of which was obtained during commercial whaling) and geographic distribution [@mizroch2009]. More recently, new lines of evidence regarding a species' life history and ecology have been considered when defining stocks [@martien2015, @rankin2018]. One such line of evidence recommended to improve population stock structure assessments is the use of passive acoustic methods [@mellinger2003, @mcdonald2006].
 
-A growing body of information supports the idea that using acoustics to characterize differences in call types within a species may indicate stock or subspecies structure[@mcdonald2006a, @rankin2018]. Broad-scale acoustic population assessments have already been conducted within several species of baleen whale. Minke and Bryde\'s whale call types vary across ocean basins and, at a finer scale, can reflect breaks in distribution [@gedamke2001, @rankin2005, @oleson2003, @winn1976]. Acoustic studies of
-humpback whales have shown differences in song among different populations. Although,
-sharing of song components between neighboring populations may complicate
-identifying populations on the basis of song alone (Helweg et al 1998, Cerchio
-et a; 2001). Song variability within blue whales (B. musculus), has been
-proposed as a bases to delineate blue whale populations worldwide. This is due
-to geographically stable differences in characteristics of song phrases (McDonald, Mark a.; Mesnick, Sarah L.; Hildebrand, 2006).
+A growing body of information supports the idea that using acoustics to characterize differences in call types within a species may indicate stock or subspecies structure[@mcdonald2006a, @rankin2018]. Broad-scale acoustic population assessments have already been conducted within several species of baleen whale. Minke and Bryde\'s whale call types vary across ocean basins and, at a finer scale, can reflect breaks in distribution [@gedamke2001, @rankin2005, @oleson2003, @winn1976]. Acoustic studies of humpback whales have shown differences in song among different populations. Although, sharing of song components between neighboring populations may complicate identifying populations on the basis of song alone [@helweg1998, @cerchio2001]. Song variability within blue whales (B. musculus), has been proposed as a basis to delineate blue whale populations worldwide. This is due to geographically stable differences in characteristics of song phrases [@mcdonald2006b].
 
 ------------------------------------------------------------------------
 
